@@ -1,7 +1,7 @@
 # SQL-TASK-3
 
 # Task 3 – Writing Basic SELECT Queries
----
+
 **Objective** : Practice data retrieval and filtering techniques using MySQL Workbench.
 ---
 **Tools Used** : MySQL Workbench
@@ -46,6 +46,6 @@ Three tables were created:
 
 **Files Included**
 
-`sql task 3.sql` – Complete SQL script with table creation, data insertion, and all queries.
-
+`sql task 3.sql` → Complete SQL script with table creation, data insertion, and all queries.
+`README.md` → Documentation of the task
 ---
